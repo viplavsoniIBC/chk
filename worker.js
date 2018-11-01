@@ -1,2 +1,2 @@
-            for (i = 0; i < 100000000000000000000000000000000; i++) {}
+            for (i = 0; i < 20; i++) {}
             postMessage("developer Zone");
